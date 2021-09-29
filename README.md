@@ -4,7 +4,7 @@
 - 📫 You may reach me in Twitter @leow
 - 😄 Pronouns: He/Him
 - ⚡ I'm a Dad, Husband, Developer 
-- :octocat: I'll be sharing sample `codes / repositories`, so feel free to check back regularly ☝️
+- :octocat: I'll be sharing sample `codes / repositories`, so feel free to check back regularly 
 
 
 
