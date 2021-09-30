@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [TKL Django Sample](https://github.com/georgeleow/tkl_django_sample), and a few other Laravel & Python projects
+- 🔭 I’m currently working on [TKL Django Sample](https://github.com/georgeleow/tkl_django_sample)
 - 👯 Feel free to take a stab at this branch [Demo Jest React](https://github.com/georgeleow/gif-gif-react/tree/demo-jest-react-php7.1)
 - 📫 You may reach me in Twitter @leow
 - 😄 Pronouns: He/Him
