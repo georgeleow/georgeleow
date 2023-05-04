@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [TKL Django Sample](https://github.com/georgeleow/tkl_django_sample)
-- 👯 Feel free to take a stab at this branch [Demo Jest React](https://github.com/georgeleow/gif-gif-react/tree/demo-jest-react-php7.1)
-- 📫 You may reach me in Twitter @leow
-- 😄 Pronouns: He/Him
 - ⚡ I'm a Dad, Husband, Developer 
-- :octocat: I'll be sharing sample `codes / repositories`, so feel free to check back regularly 
-
-
-
+- :octocat: Honestly, I'm making a lot of changes to my priorities as compared to a year from 2022. 
+- After meticulous reading and comprehension of web development, I decided to first launch a basic blog. 
+- 🤞🏻From there, it should act as my main medium of communication of all the projects and endeavour I work on.  
 
 <!--
 **georgeleow/georgeleow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
