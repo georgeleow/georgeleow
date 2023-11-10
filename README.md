@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hello
 
-- ⚡ I'm a Dad, Husband, Developer 
-- :octocat: Honestly, I'm making a lot of changes to my priorities as compared to a year from 2022. 
-- After meticulous reading and comprehension of web development, I decided to first launch a basic blog. 
-- 🤞🏻From there, it should act as my main medium of communication of all the projects and endeavour I work on.  
+🔭 I’m currently working on "think small" - a web design & development series about "🌱 ### achieving mindfulness in creating clean and unique web designs". 
 
 <!--
 **georgeleow/georgeleow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
