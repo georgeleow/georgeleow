@@ -1,6 +1,6 @@
 ### Hello
 
-🔭 I’m currently working on "think small" - a web design & development series about "🌱 ### achieving mindfulness in creating clean and unique web designs". 
+🔭 I’m currently working on "think small" - a web design & development series about " 🌱 achieving mindfulness in creating clean and unique web designs ".
 
 <!--
 **georgeleow/georgeleow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
